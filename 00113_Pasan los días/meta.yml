@@ -5,7 +5,7 @@ tags:
 - basico
 - aritmetica
 - operadoresLogicos
-layout: input_right
+layout: input_bottom
 editor: code
 type: problem
 extra_visible: false
