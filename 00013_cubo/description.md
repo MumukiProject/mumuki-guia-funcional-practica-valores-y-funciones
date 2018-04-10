@@ -1,4 +1,4 @@
-Definí la función `cubo`, que devuelve el cubo de un número.
+Definí la función `cubo`, que devuelve [el cubo](https://es.wikipedia.org/wiki/Cubo_(aritm%C3%A9tica)) de un número.
 
 ```haskell
 ム cubo 2
