@@ -1,4 +1,4 @@
-Siguiendo con el problema anterior, ahora que contamos con la  funcion `dispersion`, necesitamos definir las siguientes funciones, que reciben los valores de los tres días, y nos responden si son días parejos, locos o normales:
+Siguiendo con el problema anterior, ahora que contamos con la  función `dispersion`, necesitamos definir las siguientes funciones, que reciben los valores de los tres días, y nos responden si son días parejos, locos o normales:
 
 * `diasParejos`: son días parejos si la dispersión es chica (menos de 30 cm)
 * `diasLocos`: son días locos si la dispersión es grande (más de un metro)
