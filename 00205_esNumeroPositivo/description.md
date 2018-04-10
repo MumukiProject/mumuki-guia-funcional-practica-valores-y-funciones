@@ -1,4 +1,4 @@
-Definí una función `esNumeroPositivo`, que aplicando a la función con un número cualquiera me diga si el número es positivo.
+Definí una función `esNumeroPositivo`, que dado un número, me dice si es mayor a cero.
 
 ```haskell
 ム esNumeroPositivo (-5)
