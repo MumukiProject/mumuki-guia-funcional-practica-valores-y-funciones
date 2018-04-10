@@ -1,4 +1,4 @@
-Escribí la función ```esCuadradoPerfecto```, que responde si un numero es un [cuadrado perfecto](http://es.wikipedia.org/wiki/Cuadrado_perfecto), lo cual se cumple cuando su raiz cuadrada es un número entero:
+Escribí la función `esCuadradoPerfecto`, que responde si un numero es un [cuadrado perfecto](http://es.wikipedia.org/wiki/Cuadrado_perfecto), lo cual se cumple cuando su raiz cuadrada es un número entero:
 
 ```haskell
 ム esCuadradoPerfecto 4
