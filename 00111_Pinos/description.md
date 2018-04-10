@@ -1,9 +1,12 @@
 En una plantación de pinos, de cada árbol se conoce la altura expresada en **metros**. El peso de un pino se puede calcular a partir de la altura así:
 
-* 3 kg x cm hasta 3 metros,
-* 2 kg x cm arriba de los 3 metros.
+* 3 kg por cada centímetro hasta 3 metros,
+* 2 kg por cada centímetro arriba de los 3 metros.
 
-Por ejemplo: 2 metros -> 600 kg, 5 metros -> 1300 kg (porque los primeros 3 metros pesan 900 kg y los siguientes 2 pesan los 400 restantes).
+Por ejemplo: 
+
+* 2 metros pesan 600 kg, porque 200 * 3 = 600
+* 5 metros pesan 1300 kg, porque los primeros 3 metros pesan 900 kg y los siguientes 2 pesan los 400 restantes.
 
 Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven árboles de entre 400 y 1000 kilos, un pino fuera de este rango no le sirve a la fábrica.
 
