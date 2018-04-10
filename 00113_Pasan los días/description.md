@@ -16,4 +16,4 @@ True
 False
 ```
 
-> Definí `diasNormales`, `diasParejos` y `diasLocos`
+> Definí `diasNormales`, `diasParejos` y `diasLocos`, Asumí que `dispersion` ya está definida. 
