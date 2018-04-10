@@ -15,3 +15,5 @@ True
 ム diasNormales 1 200 500
 False
 ```
+
+> Definí `diasNormales`, `diasParejos` y `diasLocos`
