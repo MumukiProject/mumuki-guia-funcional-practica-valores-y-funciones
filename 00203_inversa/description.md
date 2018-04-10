@@ -4,7 +4,7 @@ Definí una función `inversa`, que al aplicarla con un número cualquiera me de
 ム inversa 4
 0.25
 
-Main> inversa 0.5
+ム inversa 0.5
 2.0
 ```
 
