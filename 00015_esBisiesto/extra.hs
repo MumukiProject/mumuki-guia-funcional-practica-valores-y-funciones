@@ -1,1 +1,1 @@
-esMultiploDe x y = mod x y == 0
+esMultiploDe x y = rem x y == 0
