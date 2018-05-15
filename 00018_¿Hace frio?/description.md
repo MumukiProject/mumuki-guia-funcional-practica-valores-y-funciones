@@ -1,4 +1,4 @@
-¡Se vino el frío! Y necesitamos programar las siguientes funciones: 
+¡Se vino el frío! :snowflake: Y necesitamos programar las siguientes funciones: 
 
 * `haceFrioC` que nos diga si hace menos de 8 Grados Celsius
 * `haceFrioF` que también nos diga si hace frío, pero que tome una temperatura expresada en grados Farenheit. 
