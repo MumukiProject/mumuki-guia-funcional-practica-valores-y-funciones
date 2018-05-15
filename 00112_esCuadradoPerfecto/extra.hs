@@ -1,1 +1,0 @@
-decimalPart = snd.properFraction
