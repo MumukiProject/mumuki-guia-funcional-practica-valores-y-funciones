@@ -12,8 +12,8 @@ TemperaturaFarenheit = TemperaturaCelsius × 1.8 + 32
 > 
 > ```haskell
 > ム celsiusToFahr 10
-> 50
+> 50  -- porque 10°C son 50°F 
 > ム celsiusToFahr 0
-> 32
+> 32 -- porque 0°C son 32°F 
 > ```
 
