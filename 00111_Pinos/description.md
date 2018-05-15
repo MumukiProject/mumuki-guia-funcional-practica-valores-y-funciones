@@ -1,11 +1,9 @@
 En una plantación de pinos, de cada árbol se conoce la altura expresada en **metros**. El peso de un pino se puede calcular a partir de la altura así:
 
-* 3 kg por cada centímetro hasta 3 metros,
-* 2 kg por cada centímetro arriba de los 3 metros.
-
-
 <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-funcional-practica-valores-y-funciones/master/images/funcional-01_1526394936041.png" alt="funcional-01_1526394936041.png" width="auto" height="auto">
 
+* 3 kg por cada centímetro hasta 3 metros,
+* 2 kg por cada centímetro arriba de los 3 metros.
 
 Por ejemplo: 
 
