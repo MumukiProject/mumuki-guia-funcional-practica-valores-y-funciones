@@ -17,4 +17,5 @@ True
 ```
 
 > Definí las funciones `haceFrioC` y `haceFrioF`, que nos digan si una temperatura (en Celsius y Farenheit, respectivamente) es fría.  
+>
 > Como desafío adicional, definí `haceFrioF` reutilizando `haceFrioC` y **usando composición**. Asúmí que ya tenemos `fahrToCelsius`.
