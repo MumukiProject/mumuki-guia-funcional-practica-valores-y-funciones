@@ -10,3 +10,5 @@ expectations:
   inspection: HasComposition
 - binding: "*"
   inspection: Declares:haceFrioC
+- binding: haceFrioF
+  inspection: Uses:haceFrioC
