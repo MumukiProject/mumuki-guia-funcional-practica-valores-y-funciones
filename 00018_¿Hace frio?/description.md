@@ -1,6 +1,6 @@
 ¡Se vino el frío! :snowflake: Y necesitamos programar las siguientes funciones: 
 
-* `haceFrioC` que nos diga si hace menos de 8 Grados Celsius
+* `haceFrioC` que nos diga si hace menos de 8 grados Celsius
 * `haceFrioF` que también nos diga si hace frío, pero que tome una temperatura expresada en grados Farenheit. 
 
 Ejemplo:
