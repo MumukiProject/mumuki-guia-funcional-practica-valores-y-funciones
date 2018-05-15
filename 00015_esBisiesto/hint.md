@@ -10,6 +10,6 @@ False
 
 Además, los operadores lógicos son los que ya vimos en lecciones anteriores:
 
-* la conjunción (_and_) se escribe `&&`
-* la disyunción (_or_) se escribe `||`
+* la conjunción (_and_) se escribe `&&`, por ejemplo `rapido && barato`
+* la disyunción (_or_) se escribe `||`, por ejemplo `lluvioso || soleado` 
 
