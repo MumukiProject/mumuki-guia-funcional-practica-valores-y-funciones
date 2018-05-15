@@ -1,4 +1,6 @@
-Exitste la funcion `not` que recibe un booleano y devuelve ese booleano negado
+¡Aha! ¿Y que funciones tenemos para operar a los booleanos? 
+
+Veamos: existe la funcion `not` que recibe un booleano y lo devuelve negado:
 
 ```haskell
 > not True
