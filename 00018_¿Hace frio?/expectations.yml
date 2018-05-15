@@ -8,3 +8,5 @@ expectations:
   inspection: Not:HasBinding
 - binding: haceFrioF
   inspection: HasComposition
+- binding: "*"
+  inspection: Declares:haceFrioC
