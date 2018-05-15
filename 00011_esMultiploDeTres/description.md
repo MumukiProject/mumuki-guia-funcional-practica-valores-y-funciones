@@ -7,7 +7,7 @@ True
 False
 ```
 
-Asumí que contás con la función `esMultiploDe`, que nos dice si un número es múltiplo es otro:
+Asumí que contás con la función `esMultiploDe`, que nos dice si un número es múltiplo de otro:
 
 ```haskell
 ム esMultiploDe 9 3
