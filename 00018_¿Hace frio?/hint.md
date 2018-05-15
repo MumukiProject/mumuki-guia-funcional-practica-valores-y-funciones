@@ -1,3 +1,5 @@
-Para usar composición, recordá que tenés que tener dos funciones, y cada una debe tomar un único parámetro. 
+Para usar composición, recordá que tenés que tener dos funciones, y cada una debe tomar un único parámetro. Te dejamos un ejemplo para refrescar la memoria: 
 
-Capaz te convenga definir una función auxiliar :wink:
+```haskell
+dobleDelSiguiente = doble . siguiente
+```
