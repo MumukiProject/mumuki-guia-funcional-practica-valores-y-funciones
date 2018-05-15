@@ -11,7 +11,9 @@ TemperaturaFarenheit = TemperaturaCelsius × 1.8 + 32
 > Sabiendo ésto, definí la función `celsiusToFahr` que, a partir de una cantidad de grados en escala Celsius, devuelve el equivalente en escala Fahrenheit.
 > 
 > ```haskell
-> ム celsiusToFahr 100
-> 212
+> ム celsiusToFahr 10
+> 50
+> ム celsiusToFahr 0
+> 32
 > ```
 
