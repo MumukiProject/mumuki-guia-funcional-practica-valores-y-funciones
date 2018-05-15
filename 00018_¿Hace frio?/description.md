@@ -7,9 +7,9 @@ Ejemplo:
 
 ```haskell
 ム haceFrioC 10
-False
-ム haceFrioC 0
-True
+False -- porque son más de 8°C
+ム haceFrioC 0 
+True -- porque son menos de 8°C
 ム haceFrioF 50 -- recordá que 50°F son 10°C
 False
 ム haceFrioC 32 -- recordá que 32°F son 0°C
