@@ -8,8 +8,8 @@ GradosCelsius = (GradosCelsius - 32) / 1.8
 > 
 > ```haskell
 > ム fahrToCelsius 32
-> 0
+> 0 --- porque 32°F son 0°C
 > ム fahrToCelsius 50
-> 10
+> 10 --- porque 50°F son 10°C
 > ```
 
