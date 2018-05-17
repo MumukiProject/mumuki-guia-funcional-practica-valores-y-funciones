@@ -1,6 +1,6 @@
 Trabajamos con tres enteros que representan el nivel de un río en tres días consecutivos :calendar:. Por ejemplo: medimos los días 1, 2 y 3, y las mediciones son: 22 cm, 283 cm, y 294 cm.
 
-Usando estos números nos gustaría saber tres cosas: 
+Usando estas mediciones nos gustaría saber tres cosas: 
 
 * `maximoEntreTres`: toma tres mediciones y nos da la más alta;
 * `minimoEntreTres`: toma tres mediciones y nos da la mas baja;
@@ -14,3 +14,5 @@ Usando estos números nos gustaría saber tres cosas:
 ム dispersion 22 283 294
 272
 ```
+
+> ¡Desarrollá estas tres funciones! Y no repitas código: reutilizá `maximoEntreTres` y `minimoEntreTres` en la definición de `dispersion` :sunglasses:

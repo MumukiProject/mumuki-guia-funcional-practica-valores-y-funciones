@@ -4,3 +4,11 @@ expectations:
   inspection: Not:HasGuards
 - binding: "*"
   inspection: Except:HasRedundantParameter
+- binding: dispersion
+  inspection: Uses:maximoEntreTres
+- binding: dispersion
+  inspection: Uses:minimoEntreTres
+- binding: "*"
+  inspection: Declares:minimoEntreTres
+- binding: "*"
+  inspection: Declares:maximoEntreTres
