@@ -7,10 +7,10 @@ Usando estas mediciones nos gustaría saber tres cosas:
 *  `dispersion`: toma los tres mediciones y devuelve la diferencia entre la más alta y la más baja. Ejemplo:
 
 ```haskell
-ム maximoEntreTres 10 187 45
-187
-ム minimoEntreTres 10 187 45
-10
+ム maximoEntreTres 22 283 294
+294
+ム minimoEntreTres 22 283 294
+22
 ム dispersion 22 283 294
 272
 ```
