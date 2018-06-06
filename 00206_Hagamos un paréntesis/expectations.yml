@@ -2,3 +2,5 @@
 expectations:
 - binding: "*"
   inspection: Except:HasRedundantParameter
+- binding: "*"
+  inspection: Except:DoesTypeTest
