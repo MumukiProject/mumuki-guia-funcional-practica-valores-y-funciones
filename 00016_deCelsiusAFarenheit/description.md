@@ -5,7 +5,7 @@ En Argentina, Uruguay y Chile se usan _grados Celsius_ (abreviado _°C_), pero e
 ¿Y cómo hacemos para convertir grados Celsius en grados Farenheit? ¡Usando la siguiente fórmula!
 
 ```
-TemperaturaFarenheit = TemperaturaCelsius × 1.8 + 32
+GradosFarenheit = GradosCelsius × 1.8 + 32
 ```
 
 > Sabiendo ésto, definí la función `deCelsiusAFarenheit` que, a partir de una cantidad de grados en escala Celsius, devuelve el equivalente en escala Fahrenheit.
