@@ -8,12 +8,12 @@ En Argentina, Uruguay y Chile se usan _grados Celsius_ (abreviado _°C_), pero e
 TemperaturaFarenheit = TemperaturaCelsius × 1.8 + 32
 ```
 
-> Sabiendo ésto, definí la función `celsiusToFahr` que, a partir de una cantidad de grados en escala Celsius, devuelve el equivalente en escala Fahrenheit.
+> Sabiendo ésto, definí la función `deCelsiusAFarenheit` que, a partir de una cantidad de grados en escala Celsius, devuelve el equivalente en escala Fahrenheit.
 > 
 > ```haskell
-> ム celsiusToFahr 10
+> ム deCelsiusAFarenheit 10
 > 50  -- porque 10°C son 50°F 
-> ム celsiusToFahr 0
+> ム deCelsiusAFarenheit 0
 > 32 -- porque 0°C son 32°F 
 > ```
 
