@@ -1,1 +1,1 @@
-fahrToCelsius temperatura = (temperatura - 32)  * 5 / 9
+deFarenheitACelsius temperatura = (temperatura - 32)  * 5 / 9
