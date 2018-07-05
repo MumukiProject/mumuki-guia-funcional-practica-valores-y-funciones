@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: area
+- binding: esMasLargoQue
   inspection: HasBinding
 - binding: "*"
   inspection: Except:HasRedundantParameter
