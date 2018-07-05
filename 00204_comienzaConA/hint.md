@@ -1,0 +1,1 @@
+Recordá lo que hacía la función `head` :wink:.
