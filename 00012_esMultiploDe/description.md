@@ -14,6 +14,7 @@ Ah, y para saber si un número es múltiplo de otro podemos utilizar la función
 ```haskell
 ム rem 12 3
 0
+
 ム rem 12 5
 2
 ```
