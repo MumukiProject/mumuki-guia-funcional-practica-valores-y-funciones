@@ -12,7 +12,7 @@ Usando estas mediciones nos gustaría saber tres cosas:
 ム minimoEntreTres 22 283 294
 22
 ム dispersion 22 283 294
-272
+272 --Porque 294 menos 22 es 272.
 ```
 
 > ¡Desarrollá estas tres funciones! Y no repitas código: reutilizá `maximoEntreTres` y `minimoEntreTres` en la definición de `dispersion` :sunglasses:
