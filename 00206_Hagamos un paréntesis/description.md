@@ -4,4 +4,4 @@ Como ya sabemos, en haskell no es necesario usar paréntesis para pasarle parám
 
 Vamos a ver si se entendió con un ejercicio.
 
-> Fijate en las funciones que están definidas a la derecha si les hacen falta paréntesis o si así están bien. Agregalos cuando sea necesario.
+> Mira las funciones que están definidas en el editor y agrega los paréntesis que consideres necesarios.
