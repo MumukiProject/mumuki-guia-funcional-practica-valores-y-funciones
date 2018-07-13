@@ -1,4 +1,4 @@
-Ahora hagamos el proceso inverso: aprendamos a convertir una temperatura en grados Farenheit a Grados Celsius. La fórmula es la siguiente: 
+Ahora hagamos el proceso inverso: aprendamos a convertir una temperatura en grados Farenheit a grados Celsius. La fórmula es la siguiente: 
 
 ```
 GradosCelsius = (GradosFarenheit - 32) / 1.8
