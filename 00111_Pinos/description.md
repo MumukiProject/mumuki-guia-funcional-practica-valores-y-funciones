@@ -3,12 +3,14 @@ En una plantación de pinos, de cada árbol se conoce la altura expresada en **m
 * 3 kg por cada centímetro hasta 3 metros,
 * 2 kg por cada centímetro arriba de los 3 metros.
 
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-funcional-practica-valores-y-funciones/master/images/funcional-01_1526394936041.png" alt="funcional-01_1526394936041.png" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-funcional-practica-valores-y-funciones/master/images/pino.png" alt="funcional-01_1526394936041.png" width="auto" height="auto">
 
 Por ejemplo: 
 
 * 2 metros pesan 600 kg, porque 200 * 3 = 600
 * 5 metros pesan 1300 kg, porque los primeros 3 metros pesan 900 kg y los siguientes 2 pesan los 400 restantes.
+
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-funcional-practica-valores-y-funciones/master/images/pinos.png" alt="funcional-01_1526394936041.png" width="auto" height="auto">
 
 Los pinos se usan para llevarlos a una fábrica de muebles, a la que le sirven árboles de entre 400 y 1000 kilos, un pino fuera de este rango no le sirve a la fábrica.
 
