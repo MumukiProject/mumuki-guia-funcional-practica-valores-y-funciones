@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esNumeroPositivo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esNumeroPositivo
   inspection: HasBinding
-- binding: esNumeroPositivo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esNumeroPositivo
   inspection: Not:HasGuards

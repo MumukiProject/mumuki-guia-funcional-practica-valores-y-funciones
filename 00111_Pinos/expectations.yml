@@ -1,16 +1,23 @@
 ---
 expectations:
-- binding: pesoPino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pesoPino
   inspection: HasBinding
-- binding: esPesoUtil
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esPesoUtil
   inspection: HasBinding
-- binding: sirvePino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sirvePino
   inspection: HasBinding
-- binding: sirvePino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sirvePino
   inspection: HasComposition
-- binding: pesoPino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pesoPino
   inspection: Not:HasConditional
-- binding: sirvePino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sirvePino
   inspection: Not:HasConditional
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

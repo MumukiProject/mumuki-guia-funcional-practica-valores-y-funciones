@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esMasLargoQue
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMasLargoQue
   inspection: HasBinding
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esMultiploDeTres
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDeTres
   inspection: HasBinding
-- binding: esMultiploDeTres
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDeTres
   inspection: Not:HasConditional

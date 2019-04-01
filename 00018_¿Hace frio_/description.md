@@ -12,7 +12,7 @@ False -- porque son más de 8°C
 True -- porque son menos de 8°C
 ム haceFrioFarenheit 50 -- recordá que 50°F son 10°C
 False
-ム haceFrioCelsius 32 -- recordá que 32°F son 0°C
+ム haceFrioFarenheit 32 -- recordá que 32°F son 0°C
 True
 ```
 

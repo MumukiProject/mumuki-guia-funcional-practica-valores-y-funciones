@@ -7,5 +7,5 @@ Copyright Franco Bulgarelli, Laura Mangifesta and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/MumukiProject/mumuki-guia-funcional-practica-valores-y-funciones and the AUTHORS.txt file.
+available at https://github.com/mumukiproject/mumuki-guia-funcional-practica-valores-y-funciones and the AUTHORS.txt file.
 

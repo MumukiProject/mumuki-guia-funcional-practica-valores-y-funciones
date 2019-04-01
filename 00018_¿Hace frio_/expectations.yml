@@ -1,20 +1,20 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esBisiesto
+  binding: haceFrioFarenheit
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esBisiesto
-  inspection: HasUsage:esMultiploDe
+  binding: haceFrioFarenheit
+  inspection: HasUsage:deFarenheitACelsius
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esMultiploDe
+  binding: deFarenheitACelsius
   inspection: Not:HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esBisiesto
-  inspection: Not:HasConditional
+  binding: haceFrioFarenheit
+  inspection: HasComposition
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esBisiesto
-  inspection: Not:HasUsage:mod
+  binding: "*"
+  inspection: Declares:haceFrioCelsius
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esBisiesto
-  inspection: Not:HasUsage:rem
+  binding: haceFrioFarenheit
+  inspection: Uses:haceFrioCelsius

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: esMultiploDe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDe
   inspection: HasBinding

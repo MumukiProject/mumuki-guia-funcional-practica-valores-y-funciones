@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: dispersion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dispersion
   inspection: Not:HasGuards
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter
-- binding: dispersion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dispersion
   inspection: Uses:maximoEntreTres
-- binding: dispersion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dispersion
   inspection: Uses:minimoEntreTres
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Declares:minimoEntreTres
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Declares:maximoEntreTres

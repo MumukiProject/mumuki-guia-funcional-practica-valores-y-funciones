@@ -1,18 +1,26 @@
 ---
 expectations:
-- binding: dispersion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dispersion
   inspection: Not:HasBinding
-- binding: diasParejos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasParejos
   inspection: HasBinding
-- binding: diasNormales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasNormales
   inspection: HasBinding
-- binding: diasLocos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasLocos
   inspection: HasBinding
-- binding: diasLocos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasLocos
   inspection: HasUsage:dispersion
-- binding: diasParejos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasParejos
   inspection: HasUsage:dispersion
-- binding: diasNormales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasNormales
   inspection: HasUsage:diasParejos
-- binding: diasNormales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: diasNormales
   inspection: HasUsage:diasLocos

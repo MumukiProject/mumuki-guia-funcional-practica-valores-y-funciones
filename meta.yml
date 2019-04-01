@@ -3,7 +3,6 @@ name: Práctica Valores y Funciones
 locale: es
 type: practice
 beta: false
-teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
@@ -23,3 +22,4 @@ order:
 - 110
 - 113
 - 111
+private: false
